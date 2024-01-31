@@ -1,6 +1,12 @@
-<div align="center"> <h1> 1. <br> Employee-Database-Management-Project </h1></div>
+<div align="center"> <h1> 1. <br> Employee Distribution Dashboard </h1></div>
 
 ![Screenshot 2024-01-30 162146](https://github.com/Manish7272/Employee-Database-Management-Project/assets/71213166/358233de-a44c-42e9-a97b-89e1a1866ed5)
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <div align="center"> <h1> 2. <br> Employee Database Management System</h1></div>
@@ -10,12 +16,9 @@
 </div>
 
 <hr>
-
 <hr>
-
 <hr>
-
 <hr>
-
+<hr>
 
 
