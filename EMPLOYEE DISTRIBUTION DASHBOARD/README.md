@@ -1,4 +1,4 @@
-<img margin: "auto" align-item="center" width="30%" justify-content="center" src="https://github.com/Manish7272/Employee-Database-Management-Project/assets/71213166/c35b8ce0-9ffa-4bfc-ac7d-eede47246f24">
+<img margin= "auto" align-item="center" width="30%" justify-content="center" src="https://github.com/Manish7272/Employee-Database-Management-Project/assets/71213166/c35b8ce0-9ffa-4bfc-ac7d-eede47246f24">
 <div align="center"> <h1> Employee Distribution Dashboard </h1></div>
 
 ![Screenshot 2024-01-30 162146](https://github.com/Manish7272/Employee-Database-Management-Project/assets/71213166/358233de-a44c-42e9-a97b-89e1a1866ed5)
