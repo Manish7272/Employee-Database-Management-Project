@@ -34,10 +34,5 @@ Effortlessly manage your employee database by selectively removing records. Choo
 
 <hr>
 
-### Video Demonstration
-Explore the intricate features and seamless functionality of our Employee Database Management System through an in-depth video demonstration. 
-
-https://github.com/Manish7272/Employee-Database-Management-Project/assets/71213166/a1899d62-8818-4275-804e-b51a01e942b0
-
 
 
